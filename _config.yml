@@ -22,7 +22,7 @@ repository               : "ChangjunHe/ChangjunHe.github.io"
 author:
   # Biographic information
   avatar           : "hcj.png"
-  name             : "ChangjunHe"
+  name             : # "ChangjunHe"
   pronouns         : # example: "she/her"  
   bio              : # "Working towards a better power system for the future!"
   location         : # "Earth"
