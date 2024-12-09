@@ -24,7 +24,7 @@ author:
   avatar           : "hcj.png"
   name             : "ChangjunHe"
   pronouns         : # example: "she/her"  
-  bio              : "Working towards a better power system for the future!"
+  bio              : # "Working towards a better power system for the future!"
   location         : # "Earth"
   employer         : "Tsinghua University"
   uri              : # URL
